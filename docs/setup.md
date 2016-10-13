@@ -13,7 +13,7 @@ Jiri is built with Go, which needs to be available on your system.
 
 ```
 curl -s https://raw.githubusercontent.com/fuchsia-mirror/jiri/master/scripts/bootstrap_jiri | bash -s /path/to/workspace/root
-export PATH=/path/to/workspace/root/.jiri_root/scripts:$PATH
+export PATH=/path/to/workspace/root/.jiri_root/bin:$PATH
 ```
 
 
